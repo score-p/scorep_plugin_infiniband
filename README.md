@@ -25,6 +25,8 @@ To only sample certain counters specify them in `SCOREP_METRIC_INFINIBAND_PLUGIN
 export SCOREP_METRIC_INFINIBAND_PLUGIN='rx_atomic_requests,port_xmit_data'
 ```
 
+## Example
+Example for the `./osu_put_bw` OSU MPI Benchmark.
 ![Example](./media/Vampir_scorep-20260310_1127_23123125394888500.svg)
 
 ## Counter Explanation
